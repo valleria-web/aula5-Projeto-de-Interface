@@ -1,3 +1,7 @@
+Exercício – AULA 5: Projeto de Interface (Caso de Uso: Registrar Vendas)
+Permitir que o vendedor registre uma venda de forma rápida, cálculo automático do total e feedback claro de confirmação/erro.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
