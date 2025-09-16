@@ -195,7 +195,7 @@ export default function RegistrarVendasUI() {
         </CardFooter>
       </Card>
 
-      <p className="text-xs text-muted-foreground">Toasts/Mensagens: sucesso/erro; validações inline nos campos.</p>
+      <p className="text-xs text-muted-foreground">Toasts/Mensagens: sucesso/erro; validações inline nos campos. Exercício - AULA 5: Projeto de Interface (Caso de Uso: Registrar Vendas)</p>
     </div>
   );
 }
